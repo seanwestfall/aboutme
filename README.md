@@ -5,7 +5,8 @@ TMDb index :
 
 **Heroku Deployment:** https://murmuring-hollows-11198.herokuapp.com/
 
-**Built With:** Angular 1.6, Rails 4.2.6
+**Built With:** Angular 1.6, Rails 4.2.6, SQLite (Local), PostgreSQL
+(Heroku)
 
 
 Yelp Clone : 
@@ -23,7 +24,7 @@ StarWars App :
 
 **Heroku Depolyment:** https://wpromote.herokuapp.com/#/
 
-**Built With** React 16, Node 7.9.0
+**Built With** React 16, Node 7.9.0, MongoDB 3.4
 
 
 
