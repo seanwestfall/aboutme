@@ -15,7 +15,7 @@ Yelp Clone :
 
 **Heroku Deployment:** https://immense-plateau-17423.herokuapp.com/
 
-**Built With** React 16, Node 7.9.0
+**Built With:** React 16, Node 7.9.0
 
 
 StarWars App : 
@@ -24,7 +24,7 @@ StarWars App :
 
 **Heroku Depolyment:** https://wpromote.herokuapp.com/#/
 
-**Built With** React 16, Node 7.9.0, MongoDB 3.4
+**Built With:** React 16, Node 7.9.0, MongoDB 3.4
 
 
 
