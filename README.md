@@ -1,5 +1,5 @@
 ## Sample Applications
-1. TMDb index : 
+TMDb index : 
 
 **Code:** https://github.com/seanwestfall/ng_interview
 
@@ -8,7 +8,7 @@
 **Built With:** Angular 1.6, Rails 4.2.6
 i
 
-2. Yelp Clone : 
+Yelp Clone : 
 
 **Code:** https://github.com/seanwestfall/yelp_clone
 
@@ -17,7 +17,7 @@ i
 **Built With** React 16, Node 7.9.0
 
 
-3. StarWars App : 
+StarWars App : 
 
 **Code:** https://github.com/seanwestfall/starwars_app 
 
