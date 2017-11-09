@@ -6,7 +6,7 @@ TMDb index :
 **Heroku Deployment:** https://murmuring-hollows-11198.herokuapp.com/
 
 **Built With:** Angular 1.6, Rails 4.2.6
-i
+
 
 Yelp Clone : 
 
