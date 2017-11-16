@@ -1,7 +1,7 @@
-## Sample Applications
-========================
+# Sample Applications
+===
 
-### TMDb index
+## TMDb index
 
 **Description:**
 
