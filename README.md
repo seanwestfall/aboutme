@@ -1,5 +1,5 @@
 # Sample Applications
-===
+
 
 ## TMDb index
 
