@@ -21,7 +21,7 @@
 
 **Heroku Deployment:** https://immense-plateau-17423.herokuapp.com/
 
-**Built With:** React 16, Redux 3.7.2, Webpack 3.6.0, Node 7.9.0
+**Built With:** React 16, Redux 3.7.2, Webpack 3.6.0, Node 9.2.0
 
 
 ## StarWars App
@@ -32,7 +32,7 @@
 
 **Heroku Depolyment:** https://wpromote.herokuapp.com/#/
 
-**Built With:** React 16, Node 7.9.0, MongoDB 3.4
+**Built With:** React 16, Node 9.2.0, MongoDB 3.4
 
 
 ## Elastic Search & VueJs example
@@ -43,7 +43,7 @@
 
 **Heroku Depolyment:** https://vue-elastic-search.herokuapp.com/
 
-**Built With:** Vue 2.5.3, Node 7.9.0, ElasticSearch 1.10
+**Built With:** Vue 2.5.3, Node 9.2.0, ElasticSearch 1.10
 
 
 ## Tinder Clone
