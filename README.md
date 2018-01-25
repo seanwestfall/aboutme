@@ -77,15 +77,16 @@
 **Heroku Deployment:** https://serene-chamber-89040.herokuapp.com/
 
 **Built With:** CakePHP 3.5.10, PHP 7.0.26, Memcached 1.5.4
- 
+
+
 ## Traffic Analysis
 
 **Description:**
 
 **Code:** https://github.com/seanwestfall/trafficanalysis
 
-**heroku deployment:** https://morning-tor-72598.herokuapp.com/index.html
+**Heroku Deployment:** https://morning-tor-72598.herokuapp.com/index.html
 
-**built with:** Angular 5.2.1, Django 1.11
+**Built With:** Angular 5.2.1, Django 1.11, Python 3.6.4
 
 
