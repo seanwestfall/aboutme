@@ -9,7 +9,7 @@
 
 **Heroku Deployment:** https://murmuring-hollows-11198.herokuapp.com/
 
-**Built With:** Angular 1.6, Rails 4.2.6, SQLite (Local), PostgreSQL
+**Built With:** Angular 1.6, Ruby 2.3.4, Rails 5.1.4, SQLite (Local), PostgreSQL
 (Heroku)
 
 
@@ -21,7 +21,7 @@
 
 **Heroku Deployment:** https://immense-plateau-17423.herokuapp.com/
 
-**Built With:** React 16, Redux 3.7.2, Webpack 3.6.0, Node 8.9.3
+**Built With:** React 16, Redux 3.7.2, Webpack 3.6.0, Node 8.9.4
 
 
 ## StarWars App
@@ -32,7 +32,7 @@
 
 **Heroku Depolyment:** https://wpromote.herokuapp.com/#/
 
-**Built With:** React 16, Node 8.9.3, GraphQL, Material UI, MongoDB 3.4
+**Built With:** React 16, Node 8.9.4, GraphQL, Material UI, MongoDB 3.4
 
 
 ## Elastic Search & VueJs example
@@ -43,7 +43,7 @@
 
 **Heroku Depolyment:** https://vue-elastic-search.herokuapp.com/
 
-**Built With:** Vue 2.5.3, Node 8.9.3, ElasticSearch 1.10
+**Built With:** Vue 2.5.3, Node 8.9.4, ElasticSearch 1.10
 
 
 ## Tinder Clone
