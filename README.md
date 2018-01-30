@@ -9,7 +9,7 @@
 
 **Heroku Deployment:** https://murmuring-hollows-11198.herokuapp.com/
 
-**Built With:** Angular 1.6, Ruby 2.3.4, Rails 5.1.4, SQLite (Local), PostgreSQL
+**Built With:** Angular 1.6, Ruby 2.5.0, Rails 5.1.4, SQLite (Local), PostgreSQL
 (Heroku)
 
 
