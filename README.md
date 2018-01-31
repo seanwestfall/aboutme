@@ -21,7 +21,7 @@
 
 **Heroku Deployment:** https://immense-plateau-17423.herokuapp.com/
 
-**Built With:** React 16, Redux 3.7.2, Webpack 3.6.0, Node 8.9.4
+**Built With:** React 16.2, Redux 3.7.2, Webpack 3.10.0, Node 8.9.4
 
 
 ## StarWars App
@@ -32,7 +32,7 @@
 
 **Heroku Depolyment:** https://wpromote.herokuapp.com/#/
 
-**Built With:** React 16, Node 8.9.4, GraphQL, Material UI, MongoDB 3.4
+**Built With:** React 16.2, Node 8.9.4, GraphQL, Material UI, MongoDB 3.4
 
 
 ## Elastic Search & VueJs example
