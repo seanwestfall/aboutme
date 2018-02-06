@@ -85,8 +85,8 @@
 
 **Code:** https://github.com/seanwestfall/trafficanalysis
 
-**Heroku Deployment:** https://morning-tor-72598.herokuapp.com/index.html
+**Heroku Deployment:** https://morning-tor-72598.herokuapp.com/
 
-**Built With:** Angular 5.2.1, Django 1.11, Python 3.6.4
+**Built With:** Angular 5.2.1, Django 2.0.2, Python 3.6.4
 
 
