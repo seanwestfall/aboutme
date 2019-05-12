@@ -85,6 +85,21 @@
 
 **Code:** https://github.com/seanwestfall/clojure
 
+**Heroku Deployment:**
+
+**Built With:** Clojure x.x.x, Erlang Phoneix
+
+
+## BlockStack Equity Table Visualizer 
+
+**Description:**
+
+**Code:** 
+
+**Heroku Deployment:**
+
+**Built With:**
+
 
 ## Traffic Analysis
 
