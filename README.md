@@ -109,7 +109,7 @@
 
 **Heroku Deployment:**
 
-**Built With:** Shopify
+**Built With:** React 16, Shopify, Docker
 
 
 ## Ecom 2
@@ -120,7 +120,7 @@
 
 **Heroku Deployment:**
 
-**Built With:** BigCommerence
+**Built With:** VueJS, BigCommerence, Ansible
 
 
 ## Traffic Analysis
