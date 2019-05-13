@@ -79,6 +79,17 @@
 **Built With:** CakePHP 3.5.10, PHP 7.0.26, Memcached 1.5.4
 
 
+## Ally Bank Parser
+
+**Description:**
+
+**Code:** https://github.com/seanwestfall/
+
+**Heroku Deployment:**
+
+**Built With:** Haskell
+
+
 ##
 
 **Description:**
@@ -121,6 +132,17 @@
 **Heroku Deployment:**
 
 **Built With:** VueJS, BigCommerence, Ansible
+
+
+## Ecom 3
+
+**Description:**
+
+**Code:** 
+
+**Heroku Deployment:**
+
+**Built With:** Magento
 
 
 ## Traffic Analysis
