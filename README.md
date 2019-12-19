@@ -112,39 +112,6 @@
 **Built With:**
 
 
-## Ecom 1
-
-**Description:**
-
-**Code:** 
-
-**Heroku Deployment:**
-
-**Built With:** React 16, Shopify, Docker
-
-
-## Ecom 2
-
-**Description:**
-
-**Code:** 
-
-**Heroku Deployment:**
-
-**Built With:** VueJS, BigCommerence, Ansible
-
-
-## Ecom 3
-
-**Description:**
-
-**Code:** 
-
-**Heroku Deployment:**
-
-**Built With:** Magento
-
-
 ## Traffic Analysis
 
 **Description:**
