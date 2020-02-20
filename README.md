@@ -17,7 +17,7 @@ Desktop/Tablet
 ![Desktop Tablet](https://raw.githubusercontent.com/seanwestfall/portfolio/master/img/starwars_01.png)
 
 Mobile  
-![Mobile](https://raw.githubusercontent.com/seanwestfall/hm/master/portfolio/starwars_02.png)
+![Mobile](https://raw.githubusercontent.com/seanwestfall/portfolio/master/img/starwars_02.png)
 
 
 ## Yelp Clone
