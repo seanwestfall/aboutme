@@ -1,7 +1,7 @@
 # Sample Applications
 
 
-## TMDb index
+## tMDb index
 
 **Description:**
 
@@ -28,7 +28,7 @@ Mobile
 
 **Heroku Deployment:** https://immense-plateau-17423.herokuapp.com/
 
-**Built With:** React 16.2, Redux 3.7.2, Webpack 3.10.0, Node 8.9.4
+**Built With:** React 16.2, Webpack 3.10.0, Node 8.9.4
 
 
 ## StarWars App
