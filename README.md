@@ -39,7 +39,7 @@ Mobile
 
 **Heroku Depolyment:** https://wpromote.herokuapp.com/#/
 
-**Built With:** React 16.2, Node 8.9.4, GraphQL, Material UI, MongoDB 3.4
+**Built With:** React 16.2, Node 8.9.4, Material UI, MongoDB 3.4
 
 
 ## Elastic Search & VueJs example
