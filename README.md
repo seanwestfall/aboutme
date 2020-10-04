@@ -30,6 +30,11 @@ Mobile
 
 **Built With:** React 16.2, Webpack 3.10.0, Node 8.9.4
 
+**Screenshots:**
+Desktop/Tablet  
+![Desktop Tablet](https://raw.githubusercontent.com/seanwestfall/portfolio/master/img/yelp_clone_01.png)
+
+![Desktop Tablet](https://raw.githubusercontent.com/seanwestfall/portfolio/master/img/yelp_clone_02.png)
 
 ## StarWars App
 
